@@ -1,0 +1,6 @@
+{
+  "name": "Mummy's Kitchen — Web Ordering & Dispatch Tracking",
+  "description": "Mobile-first Nigerian restaurant web ordering platform with meal customization, Lagos neighborhood delivery calculator, and real-time dispatch tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
